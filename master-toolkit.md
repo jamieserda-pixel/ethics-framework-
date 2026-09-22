@@ -46,3 +46,6 @@ To maintain this alignment within digital expressions, local tools, and everyday
 
 * Sacred Preservation: Guarding these reflections and frameworks ensures that the technological tools we build remain tethered to truth, serving as a sanctuary against digital noise.
 * Humble Witness: Operating with the awareness that every act of service, protection, or compassion offered to a soul on the path is a step closer to the ultimate source of grace.
+
+
+- [Sant Mat Teachings Outline](./sant-mat-outline.md)
