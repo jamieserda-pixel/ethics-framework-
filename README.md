@@ -2,7 +2,44 @@
 
 <div align="center">
 
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  ---
+
+## Lineage & Gallery Archive
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <div>
+    <img src="IMG_3824.jpeg" alt="Repository Archive 1" width="200px"/>
+  </div>
+
+  <div>
+    <img src="IMG_3867.jpeg" alt="Repository Archive 2" width="200px"/>
+  </div>
+
+  <div>
+    <img src="IMG_4253.jpeg" alt="Repository Archive 3" width="200px"/>
+  </div>
+
+  <div>
+    <img src="IMG_5589.jpeg" alt="Repository Archive 4" width="200px"/>
+  </div>
+
+  <div>
+    <img src="IMG_5692.jpeg" alt="Sant Ishwar Puri Ji" width="200px"/>
+    <p><em>Sant Ishwar Puri Ji</em></p>
+  </div>
+
+  <div>
+    <img src="IMG_5719.png" alt="Hazur Baba Sawan Singh Ji" width="200px"/>
+    <p><em>Great Master Baba Sawan Singh Ji</em></p>
+  </div>
+
+  <div>
+    <img src="IMG_9389.jpeg" alt="Repository Archive 7" width="200px"/>
+  </div>
+
+</div>
+
 
   <div>
     <img src="IMG_5692.jpeg" alt="Sant Ishwar Puri Ji" width="250px"/>
