@@ -1,4 +1,4 @@
-⁠<img src="IMG_3867.jpeg" alt="Hazur Baba Sawan Singh Ji" width="300px"/>
+⁠https://github.com/jamieserda-pixel/ethics-framework-/blob/main/IMG_5719.png
 
 
 name: GitHub Traffic Log Backup
