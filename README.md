@@ -45,3 +45,11 @@ When his companion noted that the young man hadn't even acknowledged him, Baba J
 
 ### Great Master Baba Sawan Singh Ji (1858–1948)
 Fulfilling his master's vision, Baba Sawan Singh Ji served as the second spiritual head from 1903 until 1948. Over his 45-year ministry, he transformed Beas from a remote outpost into a thriving spiritual colony, initiating tens of thousands of seekers into the practice of *Surat Shabd Yoga* (the Path of the Sound Current) and expanding the universal teachings of the Masters globally before passing the mantle onward.
+---
+
+## Repository Navigation
+
+Explore the core documents and resources included in this repository:
+
+*   **[Master Toolkit](master-toolkit.md)** – Access daily reflections, invocations, and primary project notes.
+*   **[Sant Mat Outline](sant-mat-outline.md)** – Review the structural framework, key concepts, and roadmap for the tradition's teachings.
