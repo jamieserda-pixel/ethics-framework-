@@ -1,4 +1,12 @@
-⁠https://github.com/jamieserda-pixel/ethics-framework-/blob/main/IMG_5719.png
+<div align="center">
+
+  <img src="IMG_5692.jpeg" alt="Hazur Baba Sawan Singh Ji" width="300px"/>
+
+  ### Great Master Baba Sawan Singh Ji (1858–1948)
+  > *"The soul is a drop from the divine Ocean, and its ultimate destiny is to merge back into its Source through the practice of Surat Shabd Yoga."*
+
+</div>
+
 
 
 name: GitHub Traffic Log Backup
