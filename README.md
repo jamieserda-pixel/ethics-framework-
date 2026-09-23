@@ -1,4 +1,4 @@
-<img src="assets/baba-sawan-singh-ji.jpg" alt="Hazur Baba Sawan Singh Ji" width="300px"/>
+⁠IMG_3824.jpeg⁠
 
 name: GitHub Traffic Log Backup
 
