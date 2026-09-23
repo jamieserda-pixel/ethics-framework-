@@ -2,7 +2,20 @@
 
 <div align="center">
 
-  <img src="IMG_5692.jpeg" alt="Hazur Baba Sawan Singh Ji" width="300px"/>
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div>
+    <img src="IMG_5692.jpeg" alt="Sant Ishwar Puri Ji" width="250px"/>
+    <p><em>Sant Ishwar Puri Ji</em></p>
+  </div>
+
+  <div>
+    <img src="IMG_5719.png" alt="Hazur Baba Sawan Singh Ji" width="250px"/>
+    <p><em>Great Master Baba Sawan Singh Ji (1858–1948)</em></p>
+  </div>
+
+</div>
+
 
   ### Great Master Baba Sawan Singh Ji (1858–1948)
   > *"The soul is a drop from the divine Ocean, and its ultimate destiny is to merge back into its Source through the practice of Surat Shabd Yoga."*
